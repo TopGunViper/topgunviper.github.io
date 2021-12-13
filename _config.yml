@@ -102,6 +102,13 @@ theme: stun
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repository: https://github.com/TopGunViper/topgunviper.github.io.git
+  type: git
+  repo: https://github.com/TopGunViper/topgunviper.github.io.git
   branch: main
+  token: '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'
+  message: ''
+  name: TopGunViper
+  email: topgunviper@163.com
+  extend_dirs: ''
+  ignore_hidden: false # default is true
+  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
