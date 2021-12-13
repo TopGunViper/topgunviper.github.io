@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repository: https://github.com/TopGunViper/topgunviper.github.io.git
-  branch: master
+  branch: main
