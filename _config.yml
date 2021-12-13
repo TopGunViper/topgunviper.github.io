@@ -104,7 +104,7 @@ theme: stun
 deploy:
   type: git
   repo: https://github.com/TopGunViper/topgunviper.github.io.git
-  branch: main
+  branch: gh_pages
   token: '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'
   message: ''
   name: TopGunViper
